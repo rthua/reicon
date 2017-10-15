@@ -1,2 +1,2 @@
 # reicon
-reicon网站 github备份
+reicon网站
